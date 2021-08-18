@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sokoban</string>
+    <string name="remaining_boxes">Remaining Boxes</string>
+    <string name="moves">Moves</string>
+    <string name="level">Level</string>
+    <string name="no_more_levels">No More Levels</string>
+    <string name="restart">Restart</string>
+    <string name="man_dead">Game Over</string>
+    <string name="level_finished">Level Complete!</string>
+    <string name="next_level">Next</string>
+    <string name="welcome">Welcome to Sokoban!</string>
+    <string name="exit">Exit</string>
+</resources>

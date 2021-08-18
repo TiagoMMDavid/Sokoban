@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sokoban</string>
+    <string name="remaining_boxes">Caixas Restantes</string>
+    <string name="moves">Movimentos</string>
+    <string name="level">Nível</string>
+    <string name="level_finished">Nível Concluído!</string>
+    <string name="no_more_levels">Não Há Mais Níveis</string>
+    <string name="restart">Recomeçar</string>
+    <string name="man_dead">Fim do Jogo</string>
+    <string name="welcome">Bem Vindo ao Sokoban!</string>
+    <string name="exit">Sair</string>
+    <string name="next_level">Próximo</string>
+</resources>

@@ -1,0 +1,64 @@
+/* 
+ ISEL:POO 18-19V
+ Sokoban levels description
+ . - None
+ X - Obstacle
+ * - Target
+ H - Hole
+ B - Box
+ @ - Man
+ lowerCaseLetter - MultiChar
+*/
+
+#1 8 x 8
+XXXXXXXX
+XH a  *X
+XX  HXXX
+.XX  X..
+..X BXX.
+..X   XX
+..X   @X
+..XXXXXX
+a=*B
+
+//Mini Cosmos 2
+#2 8 x 8
+..XXXXXX
+XXX   HX
+X B X XX
+X X  * X
+X    X X
+XXBX*  X
+.X@  XXX
+.XXXXX..
+
+//Micro Cosmos 4
+#3 6 x 10
+......XXXX
+XXXXXXX *X
+X B B BB X
+X     a**X
+XXX   XXXX
+..XXXXX...
+a=*@
+
+//Micro Cosmos 6
+#4 8 x 8
+.XXXXX..
+.X   X..
+.X X XX.
+XX a  XX
+X BaB  X
+X  a X X
+XX *  bX
+.XXXXXXX
+a=*B
+b=*@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
